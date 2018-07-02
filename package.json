@@ -16,5 +16,14 @@
     "material UI",
     "semantic UI"
   ],
-  "homepage" : "https://github.com/selcukitmis/Color-Pallette"
+  "homepage" : "https://github.com/selcukitmis/Color-Pallette",
+  "bugs" : {
+    "url" : "https://github.com/selcukitmis/Color-Pallette/issues",
+    "email" : "selcuk.itmis@outlook.com"
+  },
+  "person" : {
+    "name" : "Selçuk İTMİŞ",
+    "email" : "selcuk.itmis@outlook.com",
+    "url" : "http://www.selcukitmis.com/"
+  }
 }
