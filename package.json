@@ -1,0 +1,8 @@
+{
+  "name": "selcukitmis-colorpallette",
+  "version": "1.0.0",
+  "description": "Color palette for general projects",
+  "main": "index.js",
+  "author": "Selçuk İTMİŞ",
+  "license": "MIT"
+}
