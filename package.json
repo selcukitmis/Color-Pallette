@@ -1,8 +1,20 @@
 {
-  "name": "selcukitmis-colorpallette",
-  "version": "1.0.0",
-  "description": "Color palette for general projects",
-  "main": "index.js",
-  "author": "Selçuk İTMİŞ",
-  "license": "MIT"
+  "name" : "selcukitmis-colorpallette",
+  "version" : "1.0.1",
+  "description" : "Color palette for general projects",
+  "main" : "index.js",
+  "author" : "Selçuk İTMİŞ",
+  "license" : "MIT",
+  "keywords" : [
+    "color pallette",
+    "bootstrap colors",
+    "material colors",
+    "color schema",
+    "semantic UI colors",
+    "bootstrap",
+    "material",
+    "material UI",
+    "semantic UI"
+  ],
+  "homepage" : "https://github.com/selcukitmis/Color-Pallette"
 }
